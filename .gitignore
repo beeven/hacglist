@@ -100,5 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 
+.idea/
+.vscode/
+
 
 feeds.sqlite
+Scripts/
